@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": 1,
+        "student_name": "Albert Einstein",
+        "student_program": "BS-Physics",
+        "student_enrolled_date": "1905-04-01"
+    },
+    {
+        "student_id": 2,
+        "student_name": "Ada Lovelace",
+        "student_program": "BS-Computer Science",
+        "student_enrolled_date": "1833-06-01"
+    },
+    {
+        "student_id": 3,
+        "student_name": "Grace Hopper",
+        "student_program": "BS-Information Technology",
+        "student_enrolled_date": "1934-09-01" 
+    }
+]

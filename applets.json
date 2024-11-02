@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Applet 1 - Basic Events",
+        "description": "Explore the fundamentals of DOM events through interactive examples and exercises.",
+        "link": "./basic-events/"
+    },
+    {
+        "title": "Applet 2 - Leaflet Map",
+        "description": "Create and customize interactive maps using the Leaflet library, integrating various mapping features.",
+        "link": "./leaflet-map/"
+    },
+    {
+        "title": "Applet 3 - Event Button Logger",
+        "description": "Capture and log events triggered by button interactions to understand event handling in web applications.",
+        "link": "./event-button-logger/"
+    },
+    {
+        "title": "Applet 4 - Dynamic Elements",
+        "description": "Learn to manipulate the DOM by dynamically adding and removing elements based on user input.",
+        "link": "./dynamic-elements/"
+    },
+    {
+        "title": "Applet 5 - Openweather API",
+        "description": "Fetch and display weather data using the Openweather API to create a functional weather application.",
+        "link": "./openweather/"
+    },
+    {
+        "title": "Applet 6 - Todo List",
+        "description": "Manage your tasks efficiently with this interactive to-do list, allowing users to add, edit, and delete items.",
+        "link": "./todo-list/"
+    }
+]
